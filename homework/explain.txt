@@ -1,1 +1,0 @@
-This folder made for homework in course Privacy and Cryptography: Quantum Cryptography
